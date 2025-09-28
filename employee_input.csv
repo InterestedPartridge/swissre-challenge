@@ -1,9 +1,0 @@
-Id,firstName,lastName,salary,managerId
-101,Alice,CEO,200000,
-102,Bob,CTO,140000,101.0
-103,Carol,VPeng,90000,102.0
-104,Dave,Director,70000,103.0
-105,Eve,Manager,50000,104.0
-106,Frank,Engineer,40000,105.0
-107,Grace,Overpaid,200000,103.0
-108,Hank,Underpaid,70000,104.0
